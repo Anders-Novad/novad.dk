@@ -126,7 +126,7 @@ h3 { font-family: var(--serif); font-weight: 500; color: var(--ink); font-size: 
 .contact-mail { font-family: var(--serif); font-size: clamp(24px, 4vw, 32px); margin-top: 32px !important; }
 .contact-mail a { color: var(--sand); text-decoration: none; border-bottom: 1px solid rgba(227, 198, 164, .5); }
 .contact-mail a:hover { color: var(--cream); border-color: var(--cream); }
-.contact-meta { font-size: 15px; letter-spacing: .08em; }
+.contact-meta { font-style: normal; font-size: 15px; line-height: 1.7; letter-spacing: .06em; color: rgba(245, 241, 233, .85); margin-top: 8px; }
 
 /* Footer */
 .site-footer { background: var(--ink); color: rgba(245, 241, 233, .6); font-size: 14px; border-top: 1px solid rgba(227, 198, 164, .2); }
