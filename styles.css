@@ -1,3 +1,19 @@
+/* Skrifttyper hostes selv (ingen kald til Google) */
+@font-face {
+  font-family: "Fraunces";
+  src: url("fonts/fraunces-latin.woff2") format("woff2");
+  font-weight: 400 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Jost";
+  src: url("fonts/jost-latin.woff2") format("woff2");
+  font-weight: 400 500;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --ink: #1f2b27;        /* mørk grøn-sort, hero og overskrifter */
   --ink-soft: #2e3d38;
